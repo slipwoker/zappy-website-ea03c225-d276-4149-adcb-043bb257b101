@@ -1,0 +1,61 @@
+# Golden Wood — Generative Engine Optimization Map
+
+> A עבודות עץ ומלאכה business.
+
+---
+
+## Pages
+
+### בית
+https://golden-wood-ea03c225.zappy5.app
+Golden Wood מציעה עבודות עץ מותאמות אישית ומתנות מעץ יוקרתיות. פתרונות dupont golden wood ייחודיים למעצבים, בתי מלון ורוכשי מתנות עסקיות.
+
+### שירותים
+https://golden-wood-ea03c225.zappy5.app/services
+גלו את מגוון השירותים של Golden Wood: ריהוט מותאם אישית, מתנות מעץ יוקרתיות, פתרונות למלונות ועוד. מומחיות ב-dupont golden wood ומלאכה איכותית.
+
+### אודות
+https://golden-wood-ea03c225.zappy5.app/about
+למדו על Golden Wood - מלאכת עץ יוקרתית עם מומחיות ב-dupont golden wood. הסיפור שלנו, הערכים שלנו והמחויבות שלנו לאיכות ושירות מעולה.
+
+### צור קשר
+https://golden-wood-ea03c225.zappy5.app/contact
+צרו קשר עם Golden Wood לייעוץ מקצועי והצעת מחיר. מומחים ב-dupont golden wood ומתנות מעץ יוקרתיות. נשמח לעזור לכם להגשים את הפרויקט שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://golden-wood-ea03c225.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://golden-wood-ea03c225.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://golden-wood-ea03c225.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Golden Wood
+Golden Wood is a business in the עבודות עץ ומלאכה industry.
+
+## Target Audience
+- מעצבי פנים
+- קונים של רהיטים מותאמים אישית
+- מלונות בוטיק
+- רוכשי מתנות עסקיות
+- חובבי עשה זאת בעצמך
+
+## Industry
+עבודות עץ ומלאכה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://golden-wood-ea03c225.zappy5.app/sitemap.xml
+- **Robots.txt**: https://golden-wood-ea03c225.zappy5.app/robots.txt

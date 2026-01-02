@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://golden-wood-ea03c225.zappy5.app/sitemap.xml
